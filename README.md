@@ -17,6 +17,6 @@ To deliver a high-quality 3D model of the FINKI building that can be used for:
 - Virtual exploration
 - Future virtual reality or simulation applications
 
-
-<h2>Stay Tuned! 🚀</h2> 
+<hr>
+<div style="text-align:right;">Stay Tuned! 🚀</div>
 
