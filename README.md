@@ -1,4 +1,4 @@
-# MetaFINKI
+# MetaFINKI https://giphy.com/gifs/perfect-loops-17mNCcKU1mJlrbXodo
 
 This project is part of the Digitalization course and aims to create a 3D model of the FINKI building using Blender. The motivation behind this project comes from the fact that FINKI does not have an official building representation, and I want to create a digital version for educational and virtual exploration purposes. The project is currently in its early stages and will be actively developed in the coming months. <b>Stay tuned for updates!</b>
 
