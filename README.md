@@ -4,6 +4,7 @@ This project is part of the Digitalization course and aims to create a 3D model 
 
 ## Motivation
 The motivation behind this project comes from the fact that FINKI does not have an official building representation, and I want to create a digital version for educational and virtual exploration purposes. 
+
 ## Status
 The project is in its early stages.
 
