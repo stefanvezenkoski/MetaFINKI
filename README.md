@@ -1,9 +1,21 @@
-# Welcome to MetaFINKI <img src="https://media1.tenor.com/m/KFE_LpbQZ7oAAAAd/loading-load.gif" alt="Loading" style="width: 50px; height: 50px;">
+# Welcome to MetaFINKI! <img src="https://media1.tenor.com/m/KFE_LpbQZ7oAAAAd/loading-load.gif" alt="Loading" style="width: 50px; height: 50px;"> 🚀
 
-This project is part of the Digitalization course and aims to create a 3D model of the FINKI building using Blender. The motivation behind this project comes from the fact that FINKI does not have an official building representation, and I want to create a digital version for educational and virtual exploration purposes. The project is currently in its early stages and will be actively developed in the coming months. 
+This project is part of the Digitalization course and aims to create a 3D model of the FINKI building using Blender.
 
-<b>Stay tuned for updates!</b>
+## Motivation
+The motivation behind this project comes from the fact that FINKI does not have an official building representation, and I want to create a digital version for educational and virtual exploration purposes. 
+## Status
+The project is in its early stages.
 
-## Status:
-- Active work will begin in 1-2 months.
-- Objective: To create a digital representation of the FINKI building, providing a 3D model for the faculty and future virtual use.
+👷 Active development will begin in 1-2 months.
+
+## Objective
+To deliver a high-quality 3D model of the FINKI building that can be used for:
+
+- Educational purposes
+- Virtual exploration
+- Future virtual reality or simulation applications
+
+
+<h2>Stay Tuned! 🚀</h2> 
+
