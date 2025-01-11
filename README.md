@@ -21,5 +21,5 @@ To deliver a high-quality 3D model of the FINKI building that can be used for:
 
 <hr>
 <div style="text-align:right;">Stay Tuned! 🚀</div>
-Stefan Vezenkovski
+Stefan Vezenkoski
 
