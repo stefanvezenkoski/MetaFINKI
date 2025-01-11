@@ -1,4 +1,6 @@
-# Welcome to MetaFINKI! <img src="https://media1.tenor.com/m/KFE_LpbQZ7oAAAAd/loading-load.gif" alt="Loading" style="width: 50px; height: 50px;"> 🚀
+<div style="text-align:left;">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FF00&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+MetaFINKI!🚀;" />
+</div>
 
 This project is part of the Digitalization course and aims to create a 3D model of the FINKI building using Blender.
 
@@ -6,9 +8,9 @@ This project is part of the Digitalization course and aims to create a 3D model 
 The motivation behind this project comes from the fact that FINKI does not have an official building representation, and I want to create a digital version for educational and virtual exploration purposes. 
 
 ## Status
-The project is in its early stages.
+The project is in its early stages. 
 
-👷 Active development will begin in 1-2 months.
+👷 Active development will begin in 1-2 months.    <img src="https://media1.tenor.com/m/KFE_LpbQZ7oAAAAd/loading-load.gif" alt="Loading" style="width: 30px; height: 30px;">
 
 ## Objective
 To deliver a high-quality 3D model of the FINKI building that can be used for:
