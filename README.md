@@ -21,6 +21,4 @@ The goal is to deliver a high-quality, realistic 3D model of the FINKI building,
 
 <hr>
 
-<div style="text-align:right;">Stay Tuned! 🚀</div>
-
 Stefan Vezenkoski
