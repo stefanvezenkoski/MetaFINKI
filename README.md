@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FF00&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+MetaFINKI!🚀;" />
 </div>
 
+![Screenshot from 2025-05-23 02-14-43](https://github.com/user-attachments/assets/e2f220f1-8ae0-4a00-8170-953b5da1abd0)
+
 # MetaFINKI: 3D Model of the FINKI Building 🚀
 
 Due to the large size of the .blend file, you can view the full project at the following link:  [here](https://drive.google.com/drive/folders/1an9xC-bBW2eGpACpagVCNyltI-dhCQcx).
